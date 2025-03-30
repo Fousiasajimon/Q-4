@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fousia Sajimon's Resume</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f0f0f0;
+		}
+		.header {
+			background-color: #9982c9;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+		.section {
+			background-color: #fff;
+			padding: 20px;
+			margin-bottom: 20px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		}
+		.subsection {
+			margin-bottom: 10px;
+		}
+		.subsection h2 {
+			font-size: 18px;
+			margin-top: 0;
+		}
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		li {
+			margin-bottom: 10px;
+		}
+		a {
+			color: #337ab7;
+			text-decoration: none;
+		}
+		a:hover {
+			color: #23527c;
+		}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<h1>Fousia Sajimon</h1>
+		<h2>Aspiring Software Engineer</h2>
+	</div>
+	<div class="section">
+		<h1> Professional Summary</h1>
+		<p>Highly motivated first-year B.Tech Computer Science student and NASA Space Apps Challenge First Runner-up, seeking to apply theoretical knowledge and problem-solving skills in internships, research opportunities, or hackathons that drive technological advancements.</p>
+	</div>
+	<div class="section">
+		<h1>Education</h1>
+		<div class="subsection">
+			<h2>B.Tech in Computer Science and Engineering</h2>
+			<p>Amal Jyothy College of Engineering (2024-2028)</p>
+            <p> S1 SGPA:10</p>
+		</div>
+
+        <div class="subsection">
+			<h2>Neet coaching</h2>
+			<p>Brilliant Pala Study center(2023-2024)</p>
+		</div>
+
+        
+		<div class="subsection">
+			<h2>Higher Secondary [SCIENCE]</h2>
+			<p>St Josephs HSS Peruvanthanam (2021-2023)</p>
+            <p> 98.5% - A+</p>
+		</div>
+
+        <div class="subsection">
+        <h2>High School</h2>
+        <p>Kallivayalil Pappan Memorial Public School (2020-2021)</p>
+       <p> 98% - A1</p>
+    </div>
+
+
+
+
+	</div>
+	<div class="section">
+		<h1>Experience</h1>
+		<div class="subsection">
+			<h2>Self Employed Tutor</h2>
+			<p>Home-based (2024-Present)</p>
+			<ul>
+				<li>Provided personalized tutoring to students in classes 3-8.</li>
+				<li>Developed customized lesson plans and monitored student progress.</li>
+			</ul>
+		</div>
+	</div>
+	<div class="section">
+		<h1>Skills</h1>
+		<ul>
+			<li>Programming languages: Python,C++</li>
+			<li>Operating systems: Windows, Linux</li>
+			<li>Teamwork and Collaboration</li>
+			<li>Web Development</li>
+		</ul>
+	</div>
+	<div class="section">
+		<h1>Certifications</h1>
+		<ul>
+			<li>NASA Space Apps Challenge (2024)</li>
+			<li>Codecrusade: Learning the ropes (2024)</li>
+			<li>Advanced Drone Technology Workshop (2025)</li>
+            <li>UI/UX Hackathon (2025)</li>
+            
+        </ul>
+	</div>
+    <div class="section">
+		<h1> Volunteer Experience</h1>
+		<ul>
+            <li>NSS Volunteer (Sep 2021 - Aug 2023)</li>
+                <p>St Joseph's HSS Peruvanthanam (Plus Two)</p>
+</ul>
+	<div class="section">
+		<h1>Contact</h1>
+		<p>Email: <a href="mailto:fousiasajimon001@gmail.com">fousiasajimon001@gmail.com</a></p>
+		<p>Phone: 7034340627</p>
+		<p>LinkedIn: <a href="https://www.linkedin.com/in/fousiasajimon">https://www.linkedin.com/in/fousiasajimon</a></p>
+		<p>GitHub: <a href="https://github.com/Fousiasajimon">https://github.com/Fousiasajimon</a></p>
+	</div>
+</body>
+</html>
